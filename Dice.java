@@ -18,12 +18,12 @@ Scanner scanner = new Scanner(System.in);
  System.out.println("Die 1:" + die1);
  System.out.println("Die 2:" + die2);
  System.out.println("Total value:" + totalValue);
-  /* 
+   
 if(totalValue > 7){
-    System.out.println(name+" won! ");
+    System.out.println("You won! ");
     
 }else {
-    System.out.println(name + " lost!");
-}*/
+    System.out.println("You lost!");
+}
     }
 }
